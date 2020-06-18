@@ -6,9 +6,9 @@ You can take a look at these answers if u want
 
 Using javascript as I am familiar with it.
 
-*[ ] Selection 
-*[ ] Bubble
-*[ ] Insertion
-*[x] Quick Sort
-*[ ] Merge
-*[ ] Bogo
+* [ ] Selection 
+* [ ] Bubble
+* [ ] Insertion
+* [x] Quick Sort
+* [ ] Merge
+* [ ] Bogo
